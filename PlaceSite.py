@@ -5,7 +5,7 @@ Create random graph.
 Place in grid
 
 '''
-import math
+
 import random
 
 import networkx
